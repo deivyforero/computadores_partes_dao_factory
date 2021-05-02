@@ -1,0 +1,27 @@
+[
+	{
+   	 "id": "1",
+   	 "tipo": "Escritorio",
+   	 "memoria": "512",
+	 "procesador": "Intel Pentium",
+	 "board": "Asus",
+	 "descripcion": "Pc Escritorio"
+	},
+	{
+   	 "id": "2",
+   	 "tipo": "Portatil",
+   	 "memoria": "512",
+	 "procesador": "AMD",
+	 "board": "Asus",
+	 "descripcion": "Portatil AMD"
+	},
+	{
+	 "id": "3",
+   	 "tipo": "Portatil Mac",
+   	 "memoria": "512",
+	 "procesador": "Intel Core I5",
+	 "board": "Para Mac",
+	 "descripcion": "Portatil Mac"
+	}
+]
+

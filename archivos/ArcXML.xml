@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computadores>
+   <computador>
+     <id>1</id>
+     <tipo>Escritorio</tipo>
+     <memoria>512</memoria>
+     <procesador>Intel Pentium</procesador>
+     <board>Asus</board>
+     <descripcion>Pc Escritorio</descripcion>
+   </computador>
+   <computador>
+     <id>2</id>
+     <tipo>Portatil</tipo>
+     <memoria>512</memoria>
+     <procesador>AMD</procesador>
+     <board>Asus</board>
+     <descripcion>Portatil AMD</descripcion>
+   </computador>
+    <computador>
+     <id>3</id>
+     <tipo>Portatil Mac</tipo>
+     <memoria>512</memoria>
+     <procesador>Intel Core I5</procesador>
+     <board>Para Mac</board>
+     <descripcion>Portatil Mac</descripcion>
+   </computador>
+</computadores>
